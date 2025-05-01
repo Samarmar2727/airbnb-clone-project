@@ -76,5 +76,28 @@ Color Styles
 
 
 
+### UI Component Patterns
+
+In this section, you will define the main UI components you plan to create. The goal is to ensure these components are reusable and consistent throughout the application.
+
+#### Planned Components
+
+1. **Navbar**
+   - **Description**: A navigation bar that will include a logo, search bar, user navigation, and a responsive menu for mobile views.
+
+2. **Property Card**
+   - **Description**: A card displaying key information about a property (e.g., image, price, location, and rating). It will also have a "favorite" button.
+
+3. **Footer**
+   - **Description**: Contains site links, company information, social media links, and copyright information.
+
+#### Explanation:
+It's important to plan reusable UI components to ensure consistency across the app, improve maintainability, and reduce development time by reusing components.
+
+
+
+
+
+
 
 ؤ

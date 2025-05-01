@@ -40,24 +40,27 @@ A well-designed booking system reduces friction in the user journey, increases c
 Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
 
-Color Styles
-   - Primary: #FF5A5F  
-   - Secondary: #008489  
-   - Background: #FFFFFF  
-   - Text: #222222  
-   - Secondary Text: #717171
+### 🎨 Color Styles
 
-  Typography
-    - Primary Font: Circular  
-    - Font Weights:
-    - Medium (500) - 16px  
-    - Bold (700) - 24px to 32px (for headings)  
-    - Book (400) - 14px (for secondary text)
-ط
- 🤝 Importance of Identifying Design Properties
-   Identifying the design properties of a mockup ensures consistency and efficiency in development. It helps developers follow a unified visual style, improves collaboration between designers and developers, 
-   and enhances the user experience by maintaining visual harmony across the app.
+- **Primary**: #FF5A5F
+- **Secondary**: #008489
+- **Background**: #FFFFFF
+- **Text**: #222222
+- **Secondary Text**: #717171
 
+### 🅰️ Typography
+
+- **Primary Font**: Circular
+- **Font Weights**:
+  - **Medium (500)** - 16px
+  - **Bold (700)** - 24px to 32px (for headings)
+  - **Book (400)** - 14px (for secondary text)
+
+---
+
+### 🤝 Importance of Identifying Design Properties
+
+Identifying the design properties of a mockup ensures consistency and efficiency in development. It helps developers follow a unified visual style, improves collaboration between designers and developers, and enhances the user experience by maintaining visual harmony across the app.
 
    ### Project Roles and Responsibilities
 

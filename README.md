@@ -16,7 +16,7 @@ This is a full-stack clone of the Airbnb accommodation platform. The goal is to 
 - UI/UX Design Tool: Figma
 - Backend: To be decided later (based on project scope)
 
-- 
+- #UI/UX Design Planning
 🎯 Design Goals
 -Create an intuitive booking flow
 -Maintain visual consistency across all pages
